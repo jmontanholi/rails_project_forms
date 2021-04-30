@@ -23,6 +23,9 @@
 
 - Use your github account and your terminal to clone this repository to your computer.
 - Go to the cloned directory.
+- Run `bundle install`
+- Run `yarn install --check-files`
+- Run `rails db:migrate`
 - Run `rails s` to run the server.
 - Control + click into the server link it will appear.
 
