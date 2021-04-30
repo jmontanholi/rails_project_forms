@@ -38,7 +38,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/jmontanholi/rails_project_forms/issues).
 
 ## Show your support
 
